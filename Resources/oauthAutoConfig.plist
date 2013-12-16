@@ -106,11 +106,11 @@
 	<key>.netflix.com</key>
 	<dict>
 		<key>MPOAuthRequestTokenURL</key>
-		<string>http://api.netflix.com/oauth/request_token</string>
+		<string>http://public-api.netflix.com/oauth/request_token</string>
 		<key>MPOAuthUserAuthorizationURL</key>
 		<string>https://api-user.netflix.com/oauth/login</string>
 		<key>MPOAuthAccessTokenURL</key>
-		<string>http://api.netflix.com/oauth/access_token</string>
+		<string>http://public-api.netflix.com/oauth/access_token</string>
 	</dict>
 	<key>.proofile.com</key>
 	<dict>
